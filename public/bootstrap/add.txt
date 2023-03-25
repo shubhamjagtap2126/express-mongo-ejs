@@ -1,0 +1,7 @@
+ <!-- bootstrap@5.0.2 -->
+<link href="/bootstrap/bootstrap.min.css">
+
+ <!-- bootstrap@5.0.2 -->
+<script src="/bootstrap/bootstrap.bundle.min.js">
+<script src="/bootstrap/popper.min.js">
+<script src="/bootstrap/bootstrap.min.js">
